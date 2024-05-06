@@ -3,4 +3,4 @@ Flask==1.0.2
 itsdangerous==1.1.0
 Jinja2==1.10
 MarkupSafe==1.0.1
-Werkzeug==0.5.5
+Werkzeug==3.0.3
